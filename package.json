@@ -1,0 +1,27 @@
+{
+  "name": "it-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathL/_it-architecture_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathL/_it-architecture_/issues"
+  },
+  "homepage": "https://github.com/nathL/_it-architecture_#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "soap": "^0.31.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
