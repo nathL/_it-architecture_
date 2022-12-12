@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/nathL/_it-architecture_#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "soap": "^0.31.0"
   },
   "devDependencies": {
